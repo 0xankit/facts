@@ -41,3 +41,4 @@ Improvement of Transient Stability 12
 Power oscillations damping 20
 Summary of Compensator Requirements 22
 Methods of Controllable VAR generation 23
+.
